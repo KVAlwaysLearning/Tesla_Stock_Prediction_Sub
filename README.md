@@ -1,5 +1,5 @@
 
-# 🏎️ Tesla Stock Price Prediction & Real-Time Algorithmic Forecasting Hub
+# Tesla Stock Price Prediction & Real-Time Algorithmic Forecasting Hub
 
 An institutional-grade quantitative research framework and real-time analytical dashboard designed to model, validate, and forecast the chronological sequence paths of Tesla, Inc. (`TSLA`) equity traded on the NASDAQ exchange. 
 

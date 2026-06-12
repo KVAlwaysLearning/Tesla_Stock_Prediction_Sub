@@ -1,8 +1,4 @@
-Here is a comprehensive, production-ready `README.md` for your project. It captures both the quantitative research phase from the Jupyter notebook and the analytical architecture implemented in your Streamlit dashboard.
 
----
-
-```markdown
 # 🏎️ Tesla Stock Price Prediction & Real-Time Algorithmic Forecasting Hub
 
 An institutional-grade quantitative research framework and real-time analytical dashboard designed to model, validate, and forecast the chronological sequence paths of Tesla, Inc. (`TSLA`) equity traded on the NASDAQ exchange. 
@@ -57,9 +53,6 @@ The implementation is split into a data engineering pipeline, a deep learning op
 The project designs, validates, and evaluates three distinct sequence models using a custom **Time-Series Forward-Chaining Grid Search**:
 
 
-```
-
-```
    [Raw 60-Day Market Window Input]
                 │
                 ▼
@@ -77,9 +70,7 @@ The project designs, validates, and evaluates three distinct sequence models usi
   │     Dense Output Layer    │  <-- Stage 3: Multi-Horizon Projection
   └───────────────────────────┘
 
-```
 
-```
 
 1.  **Model-I: SimpleRNN Baseline** A standard recurrent neural network with 50 processing nodes. Used to establish a performance floor, though it remains structurally vulnerable to gradient degradation over long sequences.
 2.  **Model-II: Deep LSTM Layering** A 64-unit network utilizing input, forget, and output gating channels to maintain long-term memory across the 60-day historical window.
@@ -158,6 +149,6 @@ streamlit run app.py
 
 Distributed under the MIT License. See `LICENSE` for further details.
 
-```
+
 
 ```

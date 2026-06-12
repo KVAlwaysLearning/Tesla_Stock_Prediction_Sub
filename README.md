@@ -70,7 +70,7 @@ The project designs, validates, and evaluates three distinct sequence models usi
   │     Dense Output Layer    │  <-- Stage 3: Multi-Horizon Projection
   └───────────────────────────┘
 
-text```
+```
 
 1.  **Model-I: SimpleRNN Baseline** A standard recurrent neural network with 50 processing nodes. Used to establish a performance floor, though it remains structurally vulnerable to gradient degradation over long sequences.
 2.  **Model-II: Deep LSTM Layering** A 64-unit network utilizing input, forget, and output gating channels to maintain long-term memory across the 60-day historical window.

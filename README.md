@@ -151,8 +151,6 @@ Distributed under the MIT License. See `LICENSE` for further details.
 
 ---
 
-Visuals:
-
 ## Live App Screenshots
 
 <img width="1316" height="513" alt="a1" src="https://github.com/user-attachments/assets/c9516917-e4cc-4acb-a586-92786322121a" />

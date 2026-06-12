@@ -52,7 +52,7 @@ The implementation is split into a data engineering pipeline, a deep learning op
 
 The project designs, validates, and evaluates three distinct sequence models using a custom **Time-Series Forward-Chaining Grid Search**:
 
-
+```text
    [Raw 60-Day Market Window Input]
                 │
                 ▼
@@ -70,7 +70,7 @@ The project designs, validates, and evaluates three distinct sequence models usi
   │     Dense Output Layer    │  <-- Stage 3: Multi-Horizon Projection
   └───────────────────────────┘
 
-
+```text
 
 1.  **Model-I: SimpleRNN Baseline** A standard recurrent neural network with 50 processing nodes. Used to establish a performance floor, though it remains structurally vulnerable to gradient degradation over long sequences.
 2.  **Model-II: Deep LSTM Layering** A 64-unit network utilizing input, forget, and output gating channels to maintain long-term memory across the 60-day historical window.

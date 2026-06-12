@@ -149,6 +149,27 @@ streamlit run app.py
 
 Distributed under the MIT License. See `LICENSE` for further details.
 
+---
+
+Visuals:
+
+## Live App Screenshots
+
+<img width="1316" height="513" alt="a1" src="https://github.com/user-attachments/assets/c9516917-e4cc-4acb-a586-92786322121a" />
+
+<img width="1299" height="479" alt="a2" src="https://github.com/user-attachments/assets/2b432fcd-a04f-4957-9095-d713f801068c" />
+
+<img width="1332" height="466" alt="a3" src="https://github.com/user-attachments/assets/bcf9a7e4-fa24-4416-a835-a0bc78e2c1c8" />
+
+<img width="1276" height="477" alt="a4" src="https://github.com/user-attachments/assets/b03815bf-5fac-4f93-aad6-c5020be34150" />
+
+<img width="955" height="600" alt="a5" src="https://github.com/user-attachments/assets/eb9cc6ad-8d09-4999-981b-b1a33593e348" />
+
+<img width="1041" height="481" alt="a6" src="https://github.com/user-attachments/assets/867c28bd-4e72-4716-afbe-9b74513c4c51" />
+
+<img width="1361" height="472" alt="a7" src="https://github.com/user-attachments/assets/aaf43217-32de-4f91-ba1e-9fe01edaf2f0" />
 
 
-```
+
+
+

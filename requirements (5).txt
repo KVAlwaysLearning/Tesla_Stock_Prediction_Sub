@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+scikit-learn
+pandas
+numpy
+plotly
+yfinance
+gdown
+statsmodels
+prophet
